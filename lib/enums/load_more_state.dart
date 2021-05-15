@@ -1,0 +1,1 @@
+enum LoadMoreState { Loading, Idle, NoMore }
